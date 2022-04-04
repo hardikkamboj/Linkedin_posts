@@ -1,5 +1,29 @@
 | Date | Description | Link | 
 | :---: | :---: | :---: | 
+| 2022| Degree vs Radians | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mathematics-activity-6914870078744227840-0MQ9?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2022 | The Dilemma of Map projections | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-remotesensing-activity-6909211611048120320-h6Rj?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2022 | The Island discovered from Satellite Images | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_geospatial-imageprocessing-activity-6906457780975136768-rK2d?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2022 | MahaShivRatri | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mahashivratri-sanatanadharma-activity-6904338022020497408-KlM6?utm_source=linkedin_share&utm_medium=member_desktop_web| 
+| 2022| THE INTELLIGENT DISTRIBUTION OF RODS AND CONES | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-computervision-activity-6903602188078116864-Krzy?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2022| Nature, Sustainablity and Ancient Civilizations | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_nature-activity-6892874735198224384-D6pz?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2022| Swirld Opearion on Images (in a fun way) | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-python-activity-6886707949322960896-kSJT?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021| Nirvana Shatakam: Thoughts, self-enquiry and Advaita Vendanta | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_spirituality-advaitavedanta-activity-6861300960413708288-ztwI?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Fourier Transformation in Image Processing | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-activity-6856508313954250752-sZO5?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Let's Talk about Mental Health | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mentalhealthday-activity-6852897304597336064-He37?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Recommendation System and MIND | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_recommendation-systems-and-mind-imagine-activity-6844233093642018816-7WvH?utm_source=linkedin_share&utm_medium=member_desktop_web | 
+| 2021| Who Stole My Pixels | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_computervision-investigatingcode-activity-6841595155796045824-tG_G?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021| Hypocrisy (poem)| https://www.linkedin.com/posts/hardik-kamboj-61288b19b_poetry-poetrycommunity-activity-6797371374571728896-ZI1P?utm_source=linkedin_share&utm_medium=member_desktop_web | 
+| 2021 | Re-Birth(poem) | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_poetry-poetrycommunity-activity-6789537571752996864-M9kj?utm_source=linkedin_share&utm_medium=member_desktop_web | 
+| 2021| Playing Around with Pixels | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_kaggle-computervision-machinelearning-activity-6788464017649258496-MpJW?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Temporary Existence | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_vedanta-sanatandharma-activity-6772034849592152064-4sqd?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Sanskrit Lullaby | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_sanskrit-vedanta-activity-6769474911254700032-K3gx?utm_source=linkedin_share&utm_medium=member_desktop_web| 
+| 2021 | Tkinter for python GUI | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_nlp-gui-activity-6767717389103616000-dVdk?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | MBTI Personality Type Analysis | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mbti-personality-type-dataset-analysis-activity-6759365564960960512-Pkvo?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Topic Modelling using LSA | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_nlp-activity-6748485878332628992-6ynt?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | ILLUSION (POEM) | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_my-first-shot-at-poetry-inspired-from-advaita-activity-6744883567857319936-F2_Q?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021 | Maharishi Patanjali and YOGA | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mindfulness-yoga-activity-6738829970132520961-v7QR?utm_source=linkedin_share&utm_medium=member_desktop_web |
+| 2021| Visualizing the zipf's law | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_the-be-and-of-a-into-have-iti-that-for-activity-6737974492364099584-Rljp?utm_source=linkedin_share&utm_medium=member_desktop_web | 
+| 2021 | The Monty Hall Problem | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_probability-python-activity-6735532526699384832-dZ0m?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 2021 | Monte Carlo Method | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_statistics-python-probability-activity-6734784843571359745-0rGl?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 2021 | Plotting shapes and patterns using numpy, matplotlib and some high school mathematical equations | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_python-activity-6709343172608241664-Za2Y?utm_source=linkedin_share&utm_medium=member_desktop_web| 
 | 2021 | Cubic and Natural Splines | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_machinelearning-statisticallearning-activity-6697793764183863296-FPnK?utm_source=linkedin_share&utm_medium=member_desktop_web |
