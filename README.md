@@ -1,5 +1,6 @@
 | Date | Description | Link | 
 | :---: | :---: | :---: | 
+| 08-04-2022| Images as viewed from Mathematical Angle | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-activity-6917865850318282752-_1mZ?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 2022| Degree vs Radians | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_mathematics-activity-6914870078744227840-0MQ9?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 2022 | The Dilemma of Map projections | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-remotesensing-activity-6909211611048120320-h6Rj?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 2022 | The Island discovered from Satellite Images | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_geospatial-imageprocessing-activity-6906457780975136768-rK2d?utm_source=linkedin_share&utm_medium=member_desktop_web |
