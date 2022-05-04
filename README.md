@@ -1,5 +1,6 @@
 | Date | Description | Link | 
 | :---: | :---: | :---: | 
+| 03-05-2022| Noise Removal using Arithmetic Operation | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-dip-activity-6927157405457731584-IMgt?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 26-04-2022| Gray Scale Images in 3D |https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-activity-6924608734220480512-nEt1?utm_source=linkedin_share&utm_medium=member_desktop_web | 
 | 11-04-2022 | Python GUI to get Points from Polygon | https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919171559588806657/?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6919171462465523713%2C6919562479337365504%29 | 
 | 08-04-2022| Images as viewed from Mathematical Angle | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-activity-6917865850318282752-_1mZ?utm_source=linkedin_share&utm_medium=member_desktop_web |
