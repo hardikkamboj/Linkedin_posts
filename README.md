@@ -1,5 +1,6 @@
 | Date | Description | Link | 
 | :---: | :---: | :---: | 
+|28-10-2022| Spot the difference| https://www.linkedin.com/feed/update/urn:li:activity:6991377217888931840/|
 | 28-09-2022| PLAYING AROUND WITH AFFINE TRANSFORMATIONS | https://www.linkedin.com/feed/update/urn:li:activity:6980908946387607552/|
 | 03-05-2022| Noise Removal using Arithmetic Operation | https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-dip-activity-6927157405457731584-IMgt?utm_source=linkedin_share&utm_medium=member_desktop_web |
 | 26-04-2022| Gray Scale Images in 3D |https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-activity-6924608734220480512-nEt1?utm_source=linkedin_share&utm_medium=member_desktop_web | 
